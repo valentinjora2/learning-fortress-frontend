@@ -26,6 +26,7 @@ export class LoginComponent {
 
     selected(userType: number) {
         this.sel = true;
+        
         this.userType = userType;
     }
 }
