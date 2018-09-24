@@ -28,5 +28,6 @@ export class LoginComponent {
         this.sel = true;
         
         this.userType = userType;
+        
     }
 }
